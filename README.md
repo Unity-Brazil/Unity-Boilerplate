@@ -63,4 +63,4 @@ there a full example about how to use the State Machine [here](https://github.co
 5. Submit a pull request :D
 
 ##License
-MIT
+[MIT](./LICENSE)

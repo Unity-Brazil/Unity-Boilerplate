@@ -2,6 +2,9 @@
 
 ###A boilerplate to any Unity game projects
 
+##Requirements
+* [Unity 5.0.1f1](http://unity3d.com/get-unity)
+
 ##Features
 * Logo Intro
 * Menu
@@ -52,7 +55,7 @@ You can put your information on Cast section easily as well.
 
 ## State Machine
 
-there a full example about how to use the State Machine [here](https://github.com/cesardeazevedo/Unity-Component-State-Machine)
+There is a full example about how to use the State Machine [here](https://github.com/cesardeazevedo/Unity-Component-State-Machine)
 
 ##Contributing
 

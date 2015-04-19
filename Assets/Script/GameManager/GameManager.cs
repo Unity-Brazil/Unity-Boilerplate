@@ -43,7 +43,9 @@ public class GameManager : GameStateMachine<GameManager>
 
     private void Update()
     {
-        if(Input.GetKeyDown(KeyCode.Escape) && GetCurrentState().Equals(States.Playing))
+        if(Input.GetKeyDown(KeyCode.Escape) &&
+          (GetCurrentState().Equals(States.Playing) || GetCurrentState().Equals(States.Pause)))
+            //Toggle Pause State
             ChangeState(GetCurrentState().Equals(States.Pause) ? States.Playing : States.Pause);
     }
 
@@ -60,6 +62,6 @@ public class GameManager : GameStateMachine<GameManager>
 
     public static bool IsPlaying()
     {
-        return true;
+        return Instance.GetCurrentState().Equals(States.Playing);
     }
 }

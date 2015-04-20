@@ -4,7 +4,7 @@
 QualitySettings:
   m_ObjectHideFlags: 0
   serializedVersion: 5
-  m_CurrentQuality: 3
+  m_CurrentQuality: 1
   m_QualitySettings:
   - serializedVersion: 2
     name: Fastest
@@ -130,7 +130,7 @@ QualitySettings:
     shadowCascades: 4
     shadowDistance: 150
     shadowCascade2Split: .333333343
-    shadowCascade4Split: {x: .0666666701, y: .200000003, z: .466666669}
+    shadowCascade4Split: {x: .0666666701, y: .199999988, z: .466666639}
     blendWeights: 4
     textureQuality: 0
     anisotropicTextures: 2
@@ -158,6 +158,7 @@ QualitySettings:
     Tizen: 2
     WP8: 3
     Web: 3
+    WebGL: 0
     Windows Store Apps: 3
     XBOX360: 3
     XboxOne: 3

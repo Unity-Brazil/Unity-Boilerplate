@@ -13,6 +13,7 @@
 * Options (TODO)
 * Quit
 * GameManager
+* AudioManager
 * Pause System
 * Mini State Machine
 
@@ -27,6 +28,10 @@ The first scene, you can put the logo of your game easily, there is also a FadeI
 #### Menu
 
 ![screenshot](http://i.cubeupload.com/dnMdF4.png)
+
+#### Options
+
+![screenshot](http://i.cubeupload.com/cEfJZc.png)
 
 #### Cast Informations
 You can put your information on Cast section easily as well.

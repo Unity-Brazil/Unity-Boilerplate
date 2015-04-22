@@ -2,8 +2,19 @@
 
 ###A boilerplate to any Unity game projects
 
+#Get Started
+####Download ZIP
+
+Download it - [Unity-Boilerplate-master.zip](https://github.com/Unity-Brazil/Unity-Boilerplate/archive/master.zip)
+
+####Clone
+
+```sh
+$ git clone git@github.com:Unity-Brazil/Unity-Boilerplate.git YourGameFolder
+```
+
 ##Requirements
-* [Unity 5.0.1f1](http://unity3d.com/get-unity)
+* [Unity 5.0.1f1](http://unity3d.com/get-unity) or latest
 
 ##Features
 * Logo Intro

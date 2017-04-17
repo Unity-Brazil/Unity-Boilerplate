@@ -1,22 +1,22 @@
 # Unity-Boilerplate
 
-###A boilerplate to any Unity game projects
+### A boilerplate to any Unity game projects
 
-#Get Started
-####Download ZIP
+# Get Started
+#### Download ZIP
 
 Download it - [Unity-Boilerplate-master.zip](https://github.com/Unity-Brazil/Unity-Boilerplate/archive/master.zip)
 
-####Clone
+#### Clone
 
 ```sh
 $ git clone git@github.com:Unity-Brazil/Unity-Boilerplate.git YourGameFolder
 ```
 
-##Requirements
+## Requirements
 * [Unity 5.0.1f1](http://unity3d.com/get-unity) or latest
 
-##Features
+## Features
 * Logo Intro
 * Menu
 * Cast
@@ -48,8 +48,8 @@ The first scene, you can put the logo of your game easily, there is also a FadeI
 You can put your information on Cast section easily as well.
 ![screenshot](http://i.cubeupload.com/XskCDg.png)
 
-##Folder Structure
-````
+## Folder Structure
+```
 |-- Resources
   |-- Animations
     |-- clips
@@ -73,7 +73,7 @@ You can put your information on Cast section easily as well.
 
 There is a full example about how to use the State Machine [here](https://github.com/cesardeazevedo/Unity-Component-State-Machine)
 
-##Contributing
+## Contributing
 
 1. Fork it!
 2. Create your feature branch: git checkout -b my-new-feature
@@ -81,5 +81,5 @@ There is a full example about how to use the State Machine [here](https://github
 4. Push to the branch: git push origin my-new-feature
 5. Submit a pull request :D
 
-##License
+## License
 [MIT](./LICENSE)

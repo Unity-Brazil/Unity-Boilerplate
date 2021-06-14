@@ -1,0 +1,1 @@
+{"gameName":"Pepperoni Pepe","storeLink":"https://play.google.com/store/apps/details?id=com.gley.pepperonipepe","imageUrls":["http://gley.mobi/CrossPromo/PepePromoImage1.jpg","http://gley.mobi/CrossPromo/PepePromoImage2.jpg","http://gley.mobi/CrossPromo/PepePromoImage3.png"]}

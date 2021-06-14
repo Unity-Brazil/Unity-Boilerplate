@@ -1,0 +1,683 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.4f1 (0abb6314276a) revision 703331'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1052; Version 2009; 64bit' Language: 'en' Physical Memory: 16313 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Unity\2020.3.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Projects/Unity-Boilerplate
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52361
+Successfully changed project path to: D:/Projects/Unity-Boilerplate
+D:/Projects/Unity-Boilerplate
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 22.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path D:/Unity/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Projects/Unity-Boilerplate/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 570 Series (ID=0x67df)
+    Vendor:   
+    VRAM:     4041 MB
+    Driver:   26.20.13031.5006
+Initialize mono
+Mono path[0] = 'D:/Unity/2020.3.4f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Unity/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Unity/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56812
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Unity/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001065 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 22.03 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.340 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000582 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.796 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.7 MB.
+System memory in use after: 76.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1589.
+Total: 1.592400 ms (FindLiveObjects: 0.158600 ms CreateObjectMapping: 0.066300 ms MarkObjects: 1.310000 ms  DeleteObjects: 0.056200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/Level1Settings.lighting
+  artifactKey: Guid(b3becfda11469944782bce203d6947b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1Settings.lighting using Guid(b3becfda11469944782bce203d6947b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: 'eca16b4aff779b962a285fc3251ff8f9') in 0.028698 seconds
+  Import took 0.030411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.015785 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '025e4f587c23674256bb898581e82961') in 0.002227 seconds
+  Import took 0.004213 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001291 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.819 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(65536) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1366 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.4 MB.
+System memory in use after: 82.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1833.
+Total: 1.616300 ms (FindLiveObjects: 0.154000 ms CreateObjectMapping: 0.045100 ms MarkObjects: 1.402200 ms  DeleteObjects: 0.014100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001420 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.833 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(65536) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1391 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.1 MB.
+System memory in use after: 83.2 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1861.
+Total: 1.938500 ms (FindLiveObjects: 0.169700 ms CreateObjectMapping: 0.055100 ms MarkObjects: 1.696900 ms  DeleteObjects: 0.015400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 137.263047 seconds.
+  path: Assets/GleyPlugins
+  artifactKey: Guid(96cfc3f8faaebab44ae1203317c0499e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GleyPlugins using Guid(96cfc3f8faaebab44ae1203317c0499e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b72a4f83c82fee23d0d460a547a80e5') in 0.003441 seconds
+  Import took 0.005491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007953 seconds.
+  path: Assets/GleyPlugins
+  artifactKey: Guid(96cfc3f8faaebab44ae1203317c0499e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GleyPlugins using Guid(96cfc3f8faaebab44ae1203317c0499e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b72a4f83c82fee23d0d460a547a80e5') in 0.001358 seconds
+  Import took 0.003759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.453466 seconds.
+  path: Assets/GleyPlugins/JumpyCompleteGame
+  artifactKey: Guid(eaf8cb2c10bff5b4e97c7deed0b74cb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GleyPlugins/JumpyCompleteGame using Guid(eaf8cb2c10bff5b4e97c7deed0b74cb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c0be9e78f8c42b4d51f88c5a3582b87') in 0.001426 seconds
+  Import took 0.003792 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001427 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.742 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(65536) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1391 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.1 MB.
+System memory in use after: 83.2 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1864.
+Total: 2.058400 ms (FindLiveObjects: 0.190300 ms CreateObjectMapping: 0.048100 ms MarkObjects: 1.805200 ms  DeleteObjects: 0.013600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 24.967653 seconds.
+  path: Assets/JumpyCompleteGame/TranslationFile
+  artifactKey: Guid(0b0f7cd19f3aa6642a44073790acda5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/TranslationFile using Guid(0b0f7cd19f3aa6642a44073790acda5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e044afb53abffa0e42c8183e7e5ae650') in 0.003870 seconds
+  Import took 0.006020 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001397 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.914 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(65536) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1366 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.6 MB.
+System memory in use after: 82.7 MB.
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 1843.
+Total: 1.511200 ms (FindLiveObjects: 0.179200 ms CreateObjectMapping: 0.046100 ms MarkObjects: 1.263500 ms  DeleteObjects: 0.020700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001330 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.752 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(65536) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1366 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.5 MB.
+System memory in use after: 82.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1846.
+Total: 1.788500 ms (FindLiveObjects: 0.293900 ms CreateObjectMapping: 0.094200 ms MarkObjects: 1.361900 ms  DeleteObjects: 0.036600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001504 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.783 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(65536) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1391 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.1 MB.
+System memory in use after: 83.2 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1873.
+Total: 1.524700 ms (FindLiveObjects: 0.175900 ms CreateObjectMapping: 0.044300 ms MarkObjects: 1.291700 ms  DeleteObjects: 0.011800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 219.820301 seconds.
+  path: Assets/JumpyCompleteGame/Graphics
+  artifactKey: Guid(053e1e9392c7af74aa6b365a1851c90a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Graphics using Guid(053e1e9392c7af74aa6b365a1851c90a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecb5caa5a856cc533a85b261ed9f79f2') in 0.003426 seconds
+  Import took 0.005634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.280877 seconds.
+  path: Assets/JumpyCompleteGame/Graphics/UI
+  artifactKey: Guid(75d7588e1500c4c43997dc77790aa200) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Graphics/UI using Guid(75d7588e1500c4c43997dc77790aa200) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13d666e00e0956bd8c03ed4a1563ce17') in 0.001543 seconds
+  Import took 0.003762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.072780 seconds.
+  path: Assets/JumpyCompleteGame/Graphics/UI/achievemnts-btn.png
+  artifactKey: Guid(2eb102f8232e9aa4db68497db22c350e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Graphics/UI/achievemnts-btn.png using Guid(2eb102f8232e9aa4db68497db22c350e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07f10ed8d1d7ce825c663b5d27479abd') in 0.073345 seconds
+  Import took 0.075783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/JumpyCompleteGame/Graphics/UI/x-btn.png
+  artifactKey: Guid(889dbdb038ea170488106e4d253290df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Graphics/UI/x-btn.png using Guid(889dbdb038ea170488106e4d253290df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd737817333eb50928be086b83e22bd59') in 0.009448 seconds
+  Import took 0.011587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/JumpyCompleteGame/Graphics/UI/menu-btn.png
+  artifactKey: Guid(0ab6cd78779787a4fa27c343027b7651) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Graphics/UI/menu-btn.png using Guid(0ab6cd78779787a4fa27c343027b7651) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57ba0811703b4745c62fb9275b05b02d') in 0.007720 seconds
+  Import took 0.010349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/JumpyCompleteGame/Graphics/UI/facebook-btn.png
+  artifactKey: Guid(38e8738af0c1f8149b8b634c1e7855f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Graphics/UI/facebook-btn.png using Guid(38e8738af0c1f8149b8b634c1e7855f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3a4b2f6c1aa2e0190edc23e5c757628') in 0.007155 seconds
+  Import took 0.009861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/JumpyCompleteGame/Graphics/UI/sound-btn-on.png
+  artifactKey: Guid(f07a6e674b27b89458e07f26e6f915ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Graphics/UI/sound-btn-on.png using Guid(f07a6e674b27b89458e07f26e6f915ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3831b7fa0a93f6022c2882111d5b5946') in 0.013332 seconds
+  Import took 0.018545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/JumpyCompleteGame/Graphics/UI/game-logo.png
+  artifactKey: Guid(4b469b826f89d5b4f8c782d17999ffa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Graphics/UI/game-logo.png using Guid(4b469b826f89d5b4f8c782d17999ffa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b457f57f66dd50ba13d9faecfea1703') in 0.015197 seconds
+  Import took 0.017928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/JumpyCompleteGame/Graphics/UI/empty-btn.png
+  artifactKey: Guid(ef2e1004fd6890c49a88c3de94edbc14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Graphics/UI/empty-btn.png using Guid(ef2e1004fd6890c49a88c3de94edbc14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f21719aaf59ab9c4325ab5e02d680ad5') in 0.007344 seconds
+  Import took 0.009727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/JumpyCompleteGame/Graphics/UI/sound-btn-off.png
+  artifactKey: Guid(0c2d0128810332047a5eee6016122aff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Graphics/UI/sound-btn-off.png using Guid(0c2d0128810332047a5eee6016122aff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73237068b1aeda673d330a4d310effaf') in 0.006952 seconds
+  Import took 0.009385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/JumpyCompleteGame/Graphics/UI/leaderboard-btn.png
+  artifactKey: Guid(c5c97c8d77c33da49b6a078505457b18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Graphics/UI/leaderboard-btn.png using Guid(c5c97c8d77c33da49b6a078505457b18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a060fcd4de61116d7b3d6f2843c65d75') in 0.007158 seconds
+  Import took 0.009600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.259358 seconds.
+  path: Assets/JumpyCompleteGame/Scenes
+  artifactKey: Guid(9e926303770706d439d205dc264b0142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Scenes using Guid(9e926303770706d439d205dc264b0142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b68b0d32d975505a490de25aee81d84') in 0.001969 seconds
+  Import took 0.004383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.103969 seconds.
+  path: Assets/JumpyCompleteGame/Scenes/Game.unity
+  artifactKey: Guid(8dd02b18e3c333a479f6a4696faac51b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Scenes/Game.unity using Guid(8dd02b18e3c333a479f6a4696faac51b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cc840c16364dee89b1c63f52f6a700f') in 0.001769 seconds
+  Import took 0.004085 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001460 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.953 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(65536) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1391 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.2 MB.
+System memory in use after: 86.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1890.
+Total: 1.512500 ms (FindLiveObjects: 0.180800 ms CreateObjectMapping: 0.053500 ms MarkObjects: 1.262500 ms  DeleteObjects: 0.014500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001451 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.893 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(65536) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1391 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.2 MB.
+System memory in use after: 86.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1893.
+Total: 1.665300 ms (FindLiveObjects: 0.248300 ms CreateObjectMapping: 0.096100 ms MarkObjects: 1.299200 ms  DeleteObjects: 0.020600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001509 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.904 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(65536) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1391 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.2 MB.
+System memory in use after: 86.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1896.
+Total: 1.533500 ms (FindLiveObjects: 0.151900 ms CreateObjectMapping: 0.041100 ms MarkObjects: 1.324600 ms  DeleteObjects: 0.014500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 554.545109 seconds.
+  path: Assets/JumpyCompleteGame/Scripts
+  artifactKey: Guid(787209fdab646474e95ad79021baeee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Scripts using Guid(787209fdab646474e95ad79021baeee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ebd1b1ab105ba5669397aa59d8a8e81') in 0.008158 seconds
+  Import took 0.013236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006302 seconds.
+  path: Assets/JumpyCompleteGame/Scripts
+  artifactKey: Guid(787209fdab646474e95ad79021baeee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Scripts using Guid(787209fdab646474e95ad79021baeee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ebd1b1ab105ba5669397aa59d8a8e81') in 0.005288 seconds
+  Import took 0.008200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.968955 seconds.
+  path: Assets/JumpyCompleteGame/Graphics/Sprites
+  artifactKey: Guid(51dc740b6b3808b46869cc0c287f4fa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Graphics/Sprites using Guid(51dc740b6b3808b46869cc0c287f4fa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5013415cf865407d50b0af3215d637f') in 0.003878 seconds
+  Import took 0.006699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.972440 seconds.
+  path: Assets/JumpyCompleteGame/Graphics/Sprites/background.png
+  artifactKey: Guid(502e74dce2bde204bae94089fcb40baf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Graphics/Sprites/background.png using Guid(502e74dce2bde204bae94089fcb40baf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '052f5575ab7f85cbf50d43ee4ac14b64') in 0.059638 seconds
+  Import took 0.061889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/JumpyCompleteGame/Graphics/Sprites/side-rolling.png
+  artifactKey: Guid(0d07e3d2f76a81d4eb6ca9e0858ff518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Graphics/Sprites/side-rolling.png using Guid(0d07e3d2f76a81d4eb6ca9e0858ff518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1307907237090fe68a67fc2a2ece07f') in 0.010469 seconds
+  Import took 0.012829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/JumpyCompleteGame/Graphics/Sprites/chicken-shadow.png
+  artifactKey: Guid(bb3fdf897cb044245aae81e24a1fe383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Graphics/Sprites/chicken-shadow.png using Guid(bb3fdf897cb044245aae81e24a1fe383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36207d0ce2159092518a9cf03cddbc7b') in 0.008749 seconds
+  Import took 0.011837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/JumpyCompleteGame/Graphics/Sprites/side-rolling_extension.png
+  artifactKey: Guid(a02e3a07c532f024cad1f88ea6eab738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Graphics/Sprites/side-rolling_extension.png using Guid(a02e3a07c532f024cad1f88ea6eab738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66d7d407c234e22231a3432339be65a4') in 0.008339 seconds
+  Import took 0.010805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/JumpyCompleteGame/Graphics/Sprites/gear-2.png
+  artifactKey: Guid(4aa3c11d88f00a34db0c9a92e8dcf4f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Graphics/Sprites/gear-2.png using Guid(4aa3c11d88f00a34db0c9a92e8dcf4f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee5191fec3e9cc40f31ff3991604f12b') in 0.009732 seconds
+  Import took 0.012528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/JumpyCompleteGame/Graphics/Sprites/banda.png
+  artifactKey: Guid(98da365fd7bc70643a0cdcca0e505ecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Graphics/Sprites/banda.png using Guid(98da365fd7bc70643a0cdcca0e505ecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec4c25cb05a9f31781f38c160f46cac4') in 0.014650 seconds
+  Import took 0.017143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/JumpyCompleteGame/Graphics/Sprites/corn-power.png
+  artifactKey: Guid(b8400a4490a388748a904a4febe7f57c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Graphics/Sprites/corn-power.png using Guid(b8400a4490a388748a904a4febe7f57c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1f3edace8677fd1ca45e4e33fdc8e24') in 0.017305 seconds
+  Import took 0.020321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/JumpyCompleteGame/Graphics/Sprites/pipe-2.png
+  artifactKey: Guid(e8bf83dbc6c7a854a8a22b2a083df3e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Graphics/Sprites/pipe-2.png using Guid(e8bf83dbc6c7a854a8a22b2a083df3e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99a7b1913b91746df250f9d64e5955a8') in 0.010633 seconds
+  Import took 0.013370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/JumpyCompleteGame/Graphics/Sprites/chicken.png
+  artifactKey: Guid(f11c5acf5d1f7574cb9a24d93b713233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Graphics/Sprites/chicken.png using Guid(f11c5acf5d1f7574cb9a24d93b713233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fffa823c5526f6df8069a6d66f7cd16a') in 0.012165 seconds
+  Import took 0.014834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/JumpyCompleteGame/Graphics/Sprites/gear-1.png
+  artifactKey: Guid(053c5e16f96782e458830ca45e81cb7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Graphics/Sprites/gear-1.png using Guid(053c5e16f96782e458830ca45e81cb7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ece4a2ae65a0ded47821d183138e0e8c') in 0.011749 seconds
+  Import took 0.014021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/JumpyCompleteGame/Graphics/Sprites/pipe-1.png
+  artifactKey: Guid(465ac98e73f6e2f49aa3d289825f4afe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Graphics/Sprites/pipe-1.png using Guid(465ac98e73f6e2f49aa3d289825f4afe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60d8e6a78c0e6f6d39d3086fe896c700') in 0.014025 seconds
+  Import took 0.016413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/JumpyCompleteGame/Graphics/Sprites/curent.png
+  artifactKey: Guid(84cd9acf4e1116647b2fd44527fe1724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Graphics/Sprites/curent.png using Guid(84cd9acf4e1116647b2fd44527fe1724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7c7a57e90fe77f30dd65a8315304b0b') in 0.008747 seconds
+  Import took 0.011133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.776136 seconds.
+  path: Assets/JumpyCompleteGame/Graphics/Chicken
+  artifactKey: Guid(01109ae64e7361e4ea1482e8b7a93c54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Graphics/Chicken using Guid(01109ae64e7361e4ea1482e8b7a93c54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2946669785023398c1d1e989c086363f') in 0.012102 seconds
+  Import took 0.016411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.066644 seconds.
+  path: Assets/JumpyCompleteGame/Graphics/Chicken/Chicken.FBX
+  artifactKey: Guid(f2bc9c380d50142439a171146804177c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Graphics/Chicken/Chicken.FBX using Guid(f2bc9c380d50142439a171146804177c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5734c4cfd265bf3979889597ef41ac41') in 0.132372 seconds
+  Import took 0.135209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.617690 seconds.
+  path: Assets/JumpyCompleteGame/Documentation
+  artifactKey: Guid(3217cf2f1ad330e4cba6b503e3d91fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Documentation using Guid(3217cf2f1ad330e4cba6b503e3d91fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93fecac77c5d7d7e30627d72d2b20aa5') in 0.002611 seconds
+  Import took 0.005233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.732873 seconds.
+  path: Assets/JumpyCompleteGame/Documentation/Gley-MobileTools-Documentation.pdf
+  artifactKey: Guid(60ae5f46740d94d4abed71d194c55c2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Documentation/Gley-MobileTools-Documentation.pdf using Guid(60ae5f46740d94d4abed71d194c55c2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4273fbe08e5668d9d9c3bd9a8b4ebf7') in 0.005011 seconds
+  Import took 0.007539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.905001 seconds.
+  path: Assets/JumpyCompleteGame/Resources
+  artifactKey: Guid(0131d271fa350b243846db15aca8b8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Resources using Guid(0131d271fa350b243846db15aca8b8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '586d6691303551f10e015700a0b8343d') in 0.022271 seconds
+  Import took 0.024903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.307637 seconds.
+  path: Assets/JumpyCompleteGame/Resources/UI
+  artifactKey: Guid(1524b1b122afa294a958d2baa87382c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Resources/UI using Guid(1524b1b122afa294a958d2baa87382c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '841e4a77924c904201f01f18c016e80c') in 0.003250 seconds
+  Import took 0.006139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045306 seconds.
+  path: Assets/JumpyCompleteGame/Resources/UI/InGameInterface.prefab
+  artifactKey: Guid(21e1365e6299de8428ba51f74f90a25c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Resources/UI/InGameInterface.prefab using Guid(21e1365e6299de8428ba51f74f90a25c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc684ecf3c3e5ac0503d08956c3ccd52') in 0.026164 seconds
+  Import took 0.029669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/JumpyCompleteGame/Resources/UI/TitleScreenPopup.prefab
+  artifactKey: Guid(f83ed69118a727149a8967451dbe3691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Resources/UI/TitleScreenPopup.prefab using Guid(f83ed69118a727149a8967451dbe3691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db49fb1b1a959a90739c90e55def6682') in 0.009492 seconds
+  Import took 0.011798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/JumpyCompleteGame/Resources/UI/LevelCompletePopup.prefab
+  artifactKey: Guid(c6577755c31b7704695816a12b8d42c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Resources/UI/LevelCompletePopup.prefab using Guid(c6577755c31b7704695816a12b8d42c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9af6b4be0869cb390bf8d71b0f044ed') in 0.005769 seconds
+  Import took 0.008198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/JumpyCompleteGame/Resources/UI/PausePopup.prefab
+  artifactKey: Guid(4d265e329bc6c634dbad5942dea40bbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JumpyCompleteGame/Resources/UI/PausePopup.prefab using Guid(4d265e329bc6c634dbad5942dea40bbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6212f05a112e18001ec2788a3c8acd41') in 0.005950 seconds
+  Import took 0.008413 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001365 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.009 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(65536) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1391 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.6 MB.
+System memory in use after: 86.7 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1930.
+Total: 2.298300 ms (FindLiveObjects: 0.195900 ms CreateObjectMapping: 0.065700 ms MarkObjects: 2.003900 ms  DeleteObjects: 0.031500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001490 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.855 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(65536) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1391 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.6 MB.
+System memory in use after: 86.7 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1933.
+Total: 1.555900 ms (FindLiveObjects: 0.201900 ms CreateObjectMapping: 0.071900 ms MarkObjects: 1.263300 ms  DeleteObjects: 0.017600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 225.002712 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(a5160170c02634fe6b3469fe9782ede3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(a5160170c02634fe6b3469fe9782ede3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fa37b577299c02b8e53ffbd550fe80d') in 0.014068 seconds
+  Import took 0.016822 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

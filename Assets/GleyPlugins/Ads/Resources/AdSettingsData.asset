@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a27903ac2c9c754b9f68751656a1eaa, type: 3}
+  m_Name: AdSettingsData
+  m_EditorClassIdentifier: 
+  mediationSettings: []
+  advertiserSettings: []
+  debugMode: 0
+  usePlaymaker: 0
+  useBolt: 0
+  useGameflow: 0
+  bannerMediation: 0
+  interstitialMediation: 0
+  rewardedMediation: 0
+  externalFileUrl: Paste your external config file url here

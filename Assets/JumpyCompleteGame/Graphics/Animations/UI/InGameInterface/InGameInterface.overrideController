@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: InGameInterface
+  m_Controller: {fileID: 9100000, guid: c78ca35d141731d4ab41f733c0e4bebe, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 90d9adcfd60a622488d865b0876d86a2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 94a4bc47079886341801c3de1c00fa9f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 410e263540ca17d4b8a2e6dde71c9f77, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3a948081bf0a80343b90a4a3178ab127, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f71752b7a547a7e4d8e7f5b9e477f1e8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3f21b61d54d918e4dab676dc2ce624d3, type: 2}

@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: GleyDailyRewards
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: e0e8ff961b7eae14a87f68e9831454a8, type: 3}
+    - {fileID: 2800000, guid: b6d32e1d92228e643b6d1fb9765d6b5c, type: 3}
+    - {fileID: 2800000, guid: fc930357d21da2040ada9e63d2eeb57f, type: 3}
+    - {fileID: 2800000, guid: bafa0fb070a641d468ef61990cc20496, type: 3}
+    - {fileID: 2800000, guid: 12200c007d6a9ec44b4c1b80d11230b6, type: 3}
+    - {fileID: 2800000, guid: 88d9248c0508687479a066755184c48e, type: 3}
+    - {fileID: 2800000, guid: d5b0189781a19054c87127fcb547cf63, type: 3}
+    - {fileID: 2800000, guid: e515d7a4ddb3ac449abc8b70a3d7c032, type: 3}
+    - {fileID: 2800000, guid: c857368da1b86fa4f8598db01b17d379, type: 3}
+    - {fileID: 2800000, guid: d00c51d678c0a3a4f9cfca601bf29a3c, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: e0e8ff961b7eae14a87f68e9831454a8, type: 3}
+  - {fileID: 21300000, guid: e515d7a4ddb3ac449abc8b70a3d7c032, type: 3}
+  - {fileID: 21300000, guid: b6d32e1d92228e643b6d1fb9765d6b5c, type: 3}
+  - {fileID: 21300000, guid: bafa0fb070a641d468ef61990cc20496, type: 3}
+  - {fileID: 21300000, guid: fc930357d21da2040ada9e63d2eeb57f, type: 3}
+  - {fileID: 21300000, guid: 88d9248c0508687479a066755184c48e, type: 3}
+  - {fileID: 21300000, guid: d5b0189781a19054c87127fcb547cf63, type: 3}
+  - {fileID: 21300000, guid: 12200c007d6a9ec44b4c1b80d11230b6, type: 3}
+  - {fileID: 21300000, guid: d00c51d678c0a3a4f9cfca601bf29a3c, type: 3}
+  - {fileID: 21300000, guid: c857368da1b86fa4f8598db01b17d379, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - DR_Banner
+  - DR_PanelBg
+  - DR_Calendar
+  - DR_CoinPlate
+  - DR_CloseButton
+  - DR_Day_Claimed
+  - DR_Day_Locked
+  - DR_Day_Available
+  - DR_ScrollButton
+  - DR_ScrollBg
+  m_Tag: GleyDailyRewards
+  m_IsVariant: 0

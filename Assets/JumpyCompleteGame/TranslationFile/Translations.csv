@@ -1,0 +1,14 @@
+ID,EnumID,English,French,Spanish
+AdsID,9,Ads,Les publicités,Anuncios
+BreakID,11,Break,Pause,Rotura
+CloseID,12,Close,Proche,Cerca
+HighscoreID,4,High Score,Score élevé,Puntuación más alta
+LevelCompleteID,5,Fried Chicken,Poulet frit,Pollo frito
+PlayID,0,Play,Jouer,Jugar
+PurchasesID,2,Purchases,Achats,Compras
+RemoveID,8,Remove,Retirer,Eliminar
+RestartID,7,Restart,Redémarrer,Reiniciar
+RestoreID,1,Restore,Restaurer,Restaurar
+ScoreID,3,Score,But,Puntuación
+SubmitID,6,Submit,Soumettre,Enviar
+TapID,10,Tap to Start,Appuyez pour commencer,Toca para comenzar
